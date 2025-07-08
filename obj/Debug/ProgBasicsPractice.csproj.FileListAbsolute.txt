@@ -1,0 +1,7 @@
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\bin\Debug\ProgBasicsPractice.exe.config
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\bin\Debug\ProgBasicsPractice.exe
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\bin\Debug\ProgBasicsPractice.pdb
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\obj\Debug\ProgBasicsPractice.csproj.AssemblyReference.cache
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\obj\Debug\ProgBasicsPractice.csproj.CoreCompileInputs.cache
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\obj\Debug\ProgBasicsPractice.exe
+C:\Users\kayis\OneDrive\Documents\C# PROJECTS 2025\ProgBasicsPractice\obj\Debug\ProgBasicsPractice.pdb
